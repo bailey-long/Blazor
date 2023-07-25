@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g6WAZkQatYnMUZm8mut9+7WY1yH561TnXVdBDACIxWJEZp/rXpipwkOubQJfGg++HZ0uJWVZV6wURiPSyKRyyw==",
+  "dgSpecHash": "0IMdpqKu8G6W6+9I/yyPuml9CpiNZTnfmNB+X6m0E+YKPdoLApWPpQoUIA2AnrCSR3IM9qCG78ljM18ivi26wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fiveb\\workspace\\MonogameTesting\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
+  "projectFilePath": "C:\\Users\\fiveb\\workspace\\Blazor\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

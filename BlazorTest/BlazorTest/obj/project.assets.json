@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fiveb\\workspace\\MonogameTesting\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
+      "projectUniqueName": "C:\\Users\\fiveb\\workspace\\Blazor\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
       "projectName": "BlazorTest",
-      "projectPath": "C:\\Users\\fiveb\\workspace\\MonogameTesting\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
+      "projectPath": "C:\\Users\\fiveb\\workspace\\Blazor\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
       "packagesPath": "C:\\Users\\fiveb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fiveb\\workspace\\MonogameTesting\\BlazorTest\\BlazorTest\\obj\\",
+      "outputPath": "C:\\Users\\fiveb\\workspace\\Blazor\\BlazorTest\\BlazorTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
