@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BlazorTest.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\fiveb\\workspace\\Blazor\\BlazorTest\\BlazorTest\\wwwroot\\css\\ToDo.css",
+      "PackagePath": "staticwebassets\\css\\ToDo.css"
+    },
+    {
       "Id": "C:\\Users\\fiveb\\workspace\\Blazor\\BlazorTest\\BlazorTest\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },

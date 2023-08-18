@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XSMiBiyWutOV2b55hR/goc4r1zPl7LkY4ifL05eNqzU=",
+  "Hash": "iYPVyzS7CmOoHyVdcXF94/gXYy/tYZH6BIls+4C875E=",
   "Source": "BlazorTest",
   "BasePath": "_content/BlazorTest",
   "Mode": "Default",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\fiveb\\workspace\\Blazor\\BlazorTest\\BlazorTest\\wwwroot\\css\\ToDo.css",
+      "SourceId": "BlazorTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fiveb\\workspace\\Blazor\\BlazorTest\\BlazorTest\\wwwroot\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "css/ToDo.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ToDo.css"
     },
     {
       "Identity": "C:\\Users\\fiveb\\workspace\\Blazor\\BlazorTest\\BlazorTest\\wwwroot\\favicon.ico",
